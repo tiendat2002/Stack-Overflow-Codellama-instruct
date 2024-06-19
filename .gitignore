@@ -1,0 +1,8 @@
+# Ignore macOS system files
+datasets/
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.o
+*.obj
